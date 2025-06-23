@@ -1,8 +1,8 @@
 
-path: datasets/face_dataset
+path: datasets/phone_dataset
 train: images/train/
 val: images/val/
-nc: 1 
-names: ['face']
+nc: 2
+names: ['face' ,'phone']
 
 
